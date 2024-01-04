@@ -6,14 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-1011&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-1011" /> </p>
 
 - 🔭 I’m currently working on **CampusXchange**
-
 - 🌱 I’m currently learning **Next.js, Tailwind CSS, TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sumit-1011](https://github.com/Sumit-1011)
-
+- 👨‍💻 All of my projects are available at [my github](https://github.com/Sumit-1011)
 - 💬 Ask me about **Node.js, MongoDB, Express**
-
-- 📫 How to reach me **sumitkm101102@gmail.com**
+- I'm interested in **Problem Solving**.
+- I'm a **MERN** Stack Developer.
+- Actively looking for **Software Engineering Intern** role.
 
 - ⚡ Fun fact **My Sense of Humor is another such thing which I am proud of!**
 
