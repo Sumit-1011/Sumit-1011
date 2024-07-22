@@ -32,19 +32,19 @@
 
  <!-------------------------------------------------------------------------PROJECTS-------------------------------------------------------------------------------->
  
-## ⭐ PROJECTS
+<!-- ## ⭐ PROJECTS
 
 ### 👩‍💻 MAJOR PROJECTS
 
 |S.No.|Project Name|Technologies Used | Live App | GitHub Link |
 |--------|----|----|----| ---- |
-[comment]: <> (| 1 | CampusXchnage | HTML, CSS, JavaScript, jQuery, React.js, Node.js, Express, MongoDB, Mongoose, oAuth2.0, used APIs, and EJS | [app](https://netlify.com) | [link](https://github.com/Sumit-1011) |)
-[comment]: <> (| 2 | Mess Administrator | HTML, CSS, JavaScript, Nodejs, Express, oAuth2.0, MongoDB and EJS | [app](https://netlify.com) | [link](https://github.com/Sumit-1011) | )
-[comment]: <> (| 3 | Secrets-App | oAuth2.0, Express, Nodejs, HTML and CSS | not yet deployed...  | [link](https://github.com/Sumit-1011)|)
+| 1 | CampusXchnage | HTML, CSS, JavaScript, jQuery, React.js, Node.js, Express, MongoDB, Mongoose, oAuth2.0, used APIs, and EJS | [app](https://netlify.com) | [link](https://github.com/Sumit-1011) |
+| 2 | Mess Administrator | HTML, CSS, JavaScript, Nodejs, Express, oAuth2.0, MongoDB and EJS | [app](https://netlify.com) | [link](https://github.com/Sumit-1011) |
+| 3 | Secrets-App | oAuth2.0, Express, Nodejs, HTML and CSS | not yet deployed...  | [link](https://github.com/Sumit-1011)|
 
 | 1 | NetFlix-GPT | HTML, CSS, JavaScript, jQuery, React.js, Node.js, Express, MongoDB, Mongoose, oAuth2.0, used APIs, and EJS | [app](https://netlify.com) | [link](https://github.com/Sumit-1011) |
 
-<br>
+<br> -->
 
 
 <!--------------------------------------------------------------CONTRIBUTION STATS ------------------------------------------------------------------------------>
