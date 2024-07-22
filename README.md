@@ -8,10 +8,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-1011&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-1011" /> </p>
 
-- 🔭 I’m currently working on **CampusXchange**
-- 🌱 Also, I’m currently learning **Next.js, Tailwind CSS, TypeScript**
+- 🔭 I’m currently working on **MySelf**
+- 🌱 Also, I’m currently learning **Next.js, TypeScript**
 - 👨‍💻 All of my projects are available at [my github](https://github.com/Sumit-1011)
-- 💬 Ask me about **Node.js, MongoDB, Express**
+- 💬 Ask me about **Node.js, MongoDB, Express, React, Tailwind CSS etc.**
 - ☑️ I'm interested in **Problem Solving**.
 - 🛜 I'm a **MERN** Stack Developer.
 - 💻 Actively looking for **Software Engineering Intern** role.
@@ -38,9 +38,11 @@
 
 |S.No.|Project Name|Technologies Used | Live App | GitHub Link |
 |--------|----|----|----| ---- |
-| 1 | CampusXchnage | HTML, CSS, JavaScript, jQuery, React.js, Node.js, Express, MongoDB, Mongoose, oAuth2.0, used APIs, and EJS | [app](https://netlify.com) | [link](https://github.com/Sumit-1011) |
-| 2 | Mess Administrator | HTML, CSS, JavaScript, Nodejs, Express, oAuth2.0, MongoDB and EJS | [app](https://netlify.com) | [link](https://github.com/Sumit-1011) | 
-| 3 | Secrets-App | oAuth2.0, Express, Nodejs, HTML and CSS | not yet deployed...  | [link](https://github.com/Sumit-1011)|
+[comment]: <> (| 1 | CampusXchnage | HTML, CSS, JavaScript, jQuery, React.js, Node.js, Express, MongoDB, Mongoose, oAuth2.0, used APIs, and EJS | [app](https://netlify.com) | [link](https://github.com/Sumit-1011) |)
+[comment]: <> (| 2 | Mess Administrator | HTML, CSS, JavaScript, Nodejs, Express, oAuth2.0, MongoDB and EJS | [app](https://netlify.com) | [link](https://github.com/Sumit-1011) | )
+[comment]: <> (| 3 | Secrets-App | oAuth2.0, Express, Nodejs, HTML and CSS | not yet deployed...  | [link](https://github.com/Sumit-1011)|)
+
+| 1 | NetFlix-GPT | HTML, CSS, JavaScript, jQuery, React.js, Node.js, Express, MongoDB, Mongoose, oAuth2.0, used APIs, and EJS | [app](https://netlify.com) | [link](https://github.com/Sumit-1011) |
 
 <br>
 
