@@ -1,6 +1,6 @@
 <!--------------------------------------------------------------------------ABOUT-------------------------------------------------------------------------------->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Myriad&weight=700&size=30&pause=800&color=A941C0&center=true&vCenter=true&width=650&height=70&lines=Hello!+%F0%9F%91%8B;I'm+Sumit+Kumar+Mishra;Computer+Science+Engineering+3rd+Year;Emerging+Full+Stack+Developer;I+Solve+Problems+of+Coding" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Myriad&weight=700&size=30&pause=800&color=A941C0&center=true&vCenter=true&width=650&height=70&lines=Hello!+%F0%9F%91%8B;I'm+Sumit+Kumar+Mishra;Computer+Science+Engineering+3rd+Year;Full+Stack+Developer;I+Solve+Problems+of+Coding" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">A 4th year Computer Science Engineering Student passionate to solve problems and build full stack websites.</h3>
